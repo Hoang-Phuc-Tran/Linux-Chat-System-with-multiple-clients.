@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Hoang-Phuc-Tran/Ubuntu--Chat-System-with-multiple-clients./assets/120700092/c0775f8d-4f7d-4f94-8c6f-5ae626f399e8" alt="Picture1">
+</p>
+
 # TCP/IP Chat System
 
 Welcome to the TCP/IP Chat System, a practical exploration of socket-based TCP/IP communications through a simple chat program. This assignment challenges you to delve into C programming techniques for socket-level programming, multi-threaded solutions, and integration of the NCURSES library for enhanced user interfaces.
