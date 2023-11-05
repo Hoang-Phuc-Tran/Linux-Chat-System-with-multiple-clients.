@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/Hoang-Phuc-Tran/Ubuntu--Chat-System-with-multiple-clients./assets/120700092/c0775f8d-4f7d-4f94-8c6f-5ae626f399e8" alt="Picture1">
-</p>
+![261087226-c0775f8d-4f7d-4f94-8c6f-5ae626f399e8](https://github.com/Hoang-Phuc-Tran/Linux-Chat-System-with-multiple-clients./assets/120700092/9c827b0d-79d4-48a4-8df6-2cc91c7a901b)
+
 
 # TCP/IP Chat System
 
